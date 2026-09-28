@@ -1,8 +1,6 @@
 # runtime_components
 
-Personal runtime configuration files (rc files) for a new machine — the
-settings for bash, zsh, vim, gdb, and git that would otherwise need to be
-rebuilt from scratch on every new computer, server, or laptop.
+Personal runtime configuration files for a new machine.
 
 ## Contents
 
